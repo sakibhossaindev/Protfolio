@@ -5,6 +5,7 @@ import Skil from './Pages/Skil'
 import Project from './Pages/Project'
 import Abouts from './Pages/Abouts'
 import Service from './Pages/Service'
+import ContactSection from './Pages/Contact'
 import Contact from './Pages/Contact'
 
 const App = () => {
