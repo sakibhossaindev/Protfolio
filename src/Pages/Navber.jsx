@@ -12,10 +12,10 @@ const Navber = () => {
 
         <div className="hidden items-center gap-8 md:flex">
           <a href="#home" className="transition-colors hover:text-cyan-400">Home</a>
-          <a href="#about" className="transition-colors hover:text-cyan-400">Skill</a>
+          <a href="#Skill" className="transition-colors hover:text-cyan-400">Skill</a>
           <a href="#projects" className="transition-colors hover:text-cyan-400">Project</a>
-          <a href="#contact" className="transition-colors hover:text-cyan-400">Service</a>
-          <a href="#contact" className="transition-colors hover:text-cyan-400">About</a>
+          <a href="#Service" className="transition-colors hover:text-cyan-400">Service</a>
+          <a href="#About" className="transition-colors hover:text-cyan-400">About</a>
           <a href="#contact" className="transition-colors hover:text-cyan-400">Contact</a>
         </div>
 
